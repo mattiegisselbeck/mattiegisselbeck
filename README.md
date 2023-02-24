@@ -8,7 +8,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiegisselbeck&show_icons=true&locale=en&layout=compact" alt="mattiegisselbeck" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiegisselbeck&" alt="mattiegisselbeck" /></p>
-
  
