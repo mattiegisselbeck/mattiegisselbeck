@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiegisselbeck&label=Profile%20views&color=0e75b6&style=flat" alt="mattiegisselbeck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattiegisselbeck" alt="mattiegisselbeck" /></a> </p>
-
 - I’m currently working on [Assessing Nitrogen Levels in Drinking Water: Minnesota](https://github.com/mattiegisselbeck/AssessingNitrogenInDrinkingWater-Minnesota)
 
 <h3 align="left">Connect with me:</h3>
