@@ -14,3 +14,4 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiegisselbeck&theme=github_dark" alt="mattiegisselbeck" />
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mattiegisselbeck&theme=dark&card_width=494)](https://git.io/streak-stats)
