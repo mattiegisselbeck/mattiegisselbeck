@@ -11,6 +11,6 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 
 <br>
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiegisselbeck&theme=dark" alt="mattiegisselbeck" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiegisselbeck&theme=transparent" alt="mattiegisselbeck" />
 
 
