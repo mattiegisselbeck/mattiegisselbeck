@@ -1,13 +1,13 @@
 <h1 align="left">Mattie Gisselbeck</h1>
 
 ### About
-##### I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate research assistant for forest resources at the University of Minnesota.
+##### I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
-##### Areas of Interests and Skills: GIS Programming, Spatial Data Science, Natural Resource Management, Spatial Analysis, Cartography, Geovisualization, and Web Design.
+##### Areas of Interests and Skills: `GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, and `Web Design`.
 
 ------------
 
-##### To learn more about me, visit https://mattiegisselbeck.github.io.
+##### To view my portfolio, visit https://mattiegisselbeck.github.io.
 
 ------------
 
