@@ -1,9 +1,11 @@
 <h1 align="left">Mattie Gisselbeck</h1>
 
 ### About
-##### I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
+I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
-##### Areas of Interests and Skills: `GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, and `Web Design`.
+------------
+#### Areas of Interests and Skills
+`GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, and `Web Design`.
 
 ------------
 
