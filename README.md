@@ -1,7 +1,7 @@
 <h1 align="left">Mattie Gisselbeck</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattiegisselbeck/)](https://www.linkedin.com/in/mattiegisselbeck/)
 
 I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
