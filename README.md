@@ -6,6 +6,8 @@
 
 I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
+______________________________________________
+
 <details>
   <summary><b>&nbsp;Projects</b></summary></details>
   
