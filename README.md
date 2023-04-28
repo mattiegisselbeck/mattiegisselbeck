@@ -8,11 +8,11 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 
 ______________________________________________
 
-## Areas of Interests and Skills
+### Areas of Interests and Skills
 
 `GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, `Web Design`
 
-______________________________________________
+
 
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark" /></a>
 
