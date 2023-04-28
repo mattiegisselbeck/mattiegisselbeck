@@ -1,4 +1,4 @@
-<h1 align="left">Mattie Gisselbeck</h1>
+## Mattie Gisselbeck
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mattiegisselbeck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattiegisselbeck/)](https://www.linkedin.com/in/mattiegisselbeck/)
@@ -12,9 +12,7 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 ##
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark" /></a>
 
-<br>
--------------------------
-##
+
 
 <details>
   <summary><b>&nbsp;Projects</b></summary>
