@@ -8,13 +8,9 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 
 ______________________________________________
 
-<details>
-  <summary><b>&nbsp;Projects</b></summary></details>
-  
-  <details>
-  <summary><b>&nbsp;Areas of Interests and Skills</b></summary>
-  `GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, `Web Design`
-  </details>
+## Areas of Interests and Skills
+
+`GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, `Web Design`
 
 ______________________________________________
 
