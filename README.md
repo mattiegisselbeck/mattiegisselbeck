@@ -22,5 +22,7 @@ CSS                  1        ██░░░░░░░░░░░░░░�
 <br>
 <br>
 
+-------------------------
+
 <details>
-  <summary><b>: &nbsp;Projects</b></summary>
+  <summary><b>&nbsp;Projects</b></summary>
