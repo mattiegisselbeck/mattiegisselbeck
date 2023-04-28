@@ -6,6 +6,8 @@
 
 I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
+<details>
+  <summary><b>&nbsp;Areas of Interests and Skills</b></summary>
 
 #### Areas of Interests and Skills
 `GIS Programming`, `Spatial Data Science`, `Graphic Design`, `Spatial Analysis`, `Geovisualization`, `Web Design`
