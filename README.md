@@ -1,5 +1,8 @@
 # Mattie Gisselbeck
 
+[`mattiegisselbeck.github.io`](https://mattiegisselbeck.github.io/)
+[`linkedin.com/in/mattiegisselbeck`](https://www.linkedin.com/in/mattiegisselbeck/)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-mattiegisselbeck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattiegisselbeck/)](https://www.linkedin.com/in/mattiegisselbeck/)
 
