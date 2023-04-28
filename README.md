@@ -6,7 +6,7 @@
 
 I'm currently a graduate student within the MGIS Program at the University of Minnesota, and working as a graduate teaching assistant at the University of Minnesota.
 
-______________________________________________
+##
 
 ### Areas of Interests and Skills
 
