@@ -15,17 +15,5 @@ I'm currently a graduate student within the MGIS Program at the University of Mi
 -------------------------
 ##
 
-```text
-Python               4        ██████████░░░░░░░░░░░░░░░   60.0% 
-SQL                  1        ███████░░░░░░░░░░░░░░░░░░   30.0% 
-HTML                 1        █████░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                  1        ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-```
-<br>
-<br>
-
--------------------------
-##
-
 <details>
   <summary><b>&nbsp;Projects</b></summary>
