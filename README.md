@@ -20,6 +20,7 @@ HTML                 1        █████░░░░░░░░░░░�
 CSS                  1        ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 ```
 <br>
+<br>
 
 <details>
-  <summary><b>:computer: &nbsp;Projects</b></summary>
+  <summary><b>: &nbsp;Projects</b></summary>
