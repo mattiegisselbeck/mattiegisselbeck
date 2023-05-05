@@ -4,7 +4,6 @@
 
 # Mattie Gisselbeck
 
-###
 
 [`mattiegisselbeck.github.io`](https://mattiegisselbeck.github.io/)
 [`linkedin.com/in/mattiegisselbeck`](https://www.linkedin.com/in/mattiegisselbeck/)
