@@ -23,7 +23,7 @@ Currently, my studies within the MGIS Program are concentrated on data science, 
 
 ### Stack
 * Languages: `Python` `SQL` `JavaScript` `HTML` `CSS` `R` 
-* Libraries & Packages: (Python) `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
+* Libraries & Packages: `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
 * Services: `Google Cloud Platform` `Amazon Web Service`
 * Tools: `Docker` `Flask` `IBM SPSS` `Jupyter Notebook` `Bootstrap` `Git` `Postgres`
 
