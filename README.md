@@ -22,10 +22,10 @@ Currently, my studies within the MGIS Program are concentrated on data science, 
 * Graphic & Web Design
 
 ### Stack
-Languages: `Python` `SQL` `JavaScript` `HTML` `CSS` `R` 
-Libraries & Packages: (Python) `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
-Services: `Google Cloud Platform` `Amazon Web Service`
-Tools: `Docker` `Flask` `IBM SPSS` `Jupyter Notebook` `Bootstrap` `Git` `Postgres`
+* Languages: `Python` `SQL` `JavaScript` `HTML` `CSS` `R` 
+* Libraries & Packages: (Python) `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
+* Services: `Google Cloud Platform` `Amazon Web Service`
+* Tools: `Docker` `Flask` `IBM SPSS` `Jupyter Notebook` `Bootstrap` `Git` `Postgres`
 
-
+### 
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark"/></a>
