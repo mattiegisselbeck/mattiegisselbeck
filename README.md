@@ -27,5 +27,5 @@ Currently, my studies within the MGIS Program are concentrated on data science, 
 * Services: `Google Cloud Platform` `Amazon Web Service`
 * Tools: `Docker` `Flask` `IBM SPSS` `Jupyter Notebook` `Bootstrap` `Git` `Postgres`
 
-### 
+##
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark"/></a>
