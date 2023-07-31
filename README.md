@@ -29,3 +29,7 @@ Currently, my studies within the MGIS Program are concentrated on data science, 
 
 ##
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark"/></a>
+
+##
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattiegisselbeck&repo=msp-environmental-justice-concern)](https://github.com/mattiegisselbeck/msp-environmental-justice-concern)
+
