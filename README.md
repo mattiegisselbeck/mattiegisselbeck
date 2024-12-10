@@ -14,9 +14,9 @@
 * Geographical Information Science (GIS)
 * Data Science
 * Computer Science: Machine Learning & AI
-* Graphic & Web Design
+* Web Design
 
-### Stack
+## Stack
 * Languages: `Python` `SQL` `JavaScript` `HTML` `CSS` `R` 
 * Libraries & Packages: `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
 * Services: `Google Cloud Platform` `Amazon Web Services`
