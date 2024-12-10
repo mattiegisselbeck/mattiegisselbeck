@@ -16,12 +16,6 @@
 * Computer Science: Machine Learning & AI
 * Web Design
 
-## Stack
-* Languages: `Python` `SQL` `JavaScript` `HTML` `CSS` `R` 
-* Libraries & Packages: `scikit-learn` `sci-py` `numpy` `pandas` `geopandas` `Matplotlib` `SciPy` `NumPy`
-* Services: `Google Cloud Platform` `Amazon Web Services`
-* Tools: `Docker` `Flask` `IBM SPSS` `Jupyter Notebook` `Bootstrap` `Git` `Postgres`
-
 ##
 <a href="https://github.com/mattiegisselbeck/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiegisselbeck&layout=compact&theme=github_dark"/></a>
 
